@@ -1,0 +1,149 @@
+.img1
+{
+  height: 50px;
+    width: 223px;
+}
+.butt2
+{
+  background: #9b51e0;
+}
+.butt1
+{
+ border-color: #9b51e0;
+}
+.butt1:hover{
+  color: white;
+  background-color: #9b51e0;
+
+}
+.navfont
+{
+  font-weight: bold;
+  
+}
+.header1
+{
+  background: rgb(210, 190, 229);
+}
+.fontheading
+{
+  font-weight: bold;
+  color: #343a40;
+  font-size: 40px;
+}
+.emty1
+{
+ border: none; 
+}
+.fontheading2
+{
+  font-weight: bold;
+  color: #343a40;
+  font-size: 50px;
+}
+
+.imgsimple
+{
+  height: 323px;
+  width: 555px;
+}
+.imgcont1
+{
+background: #343a40;
+}
+.imgsimple1
+{
+  height: 500px;
+  width: 400px;
+}
+.imgcontnear
+{
+background: #727981;
+}
+.Understandhead
+{
+color: white;
+}
+.Understandheadpara
+{
+color: rgb(205, 205, 194);
+}
+.buttunlastsec
+{
+  background: #9b51e0;
+  width: 184px;
+  height: 59px;
+  display: table-cell;
+  vertical-align: middle;
+}
+.freespace
+{
+  width: 100%;
+  height: 40px;
+  background: #8ed1fc;
+  
+}
+.spaceog
+{
+  
+  background: #8ed1fc;
+  
+}
+.freespace1
+{
+  width: 100%;
+  height: 60px;
+  background: black;
+  
+}
+.lastsection
+{
+
+}
+.lastbuttons
+{
+  background: rgb(174, 125, 219);
+  width: 500px;
+  height: 80px;
+  border-radius: 3ex;
+  
+}
+.lastbuttons:hover{
+ 
+  background-color: #9b51e0;
+
+}
+.black1
+{
+  
+  background: black;
+}
+.freespacelast1
+{
+  
+    width: 100%;
+    height: 85px;
+    background: black;
+    
+  
+}
+.search12
+{
+  margin-right: 10px;
+}
+.buttlast
+{
+  background: rgb(255, 202, 0);
+  margin-right: 6px;
+  height: 58px;
+  width: 204px;
+  border-radius: 5em;
+}
+.buttlast:hover
+{
+  background: ;
+  margin-right: 6px;
+  height: 58px;
+  width: 204px;
+  border-radius: 5em;
+}
